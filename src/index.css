@@ -27,23 +27,6 @@ ul {
   margin: 0;
 }
 
-.results {
-  border: 1px solid #ccc;
-  border-top: 0;
-  width: 100%;
-  padding: 5px 0;
-  max-height: 200px;
-  overflow-y: scroll;
-}
-
-.result {
-  padding: 5px;
-  cursor: pointer;
-}
-.result:hover {
-  background-color: #eee;
-}
-
 form {
   display: flex;
 }
